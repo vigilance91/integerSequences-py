@@ -5,7 +5,7 @@ var indexSectionsWithContent =
   2: "i",
   3: "_fhp",
   4: "_degipstv",
-  5: "lpt"
+  5: "t"
 };
 
 var indexSectionNames =

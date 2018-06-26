@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['python_20integer_20sequences',['Python Integer Sequences',['../index.html',1,'']]],
   ['padovan',['Padovan',['../classinteger_sequence_1_1padovan_1_1_padovan.html',1,'integerSequence::padovan']]],
   ['padovan_2epy',['padovan.py',['../padovan_8py.html',1,'']]],
   ['pell',['Pell',['../classinteger_sequence_1_1horadam_1_1_pell.html',1,'integerSequence::horadam']]],
