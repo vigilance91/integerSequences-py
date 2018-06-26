@@ -3,12 +3,22 @@
 Developed and maintained by Tyler R. Drury,
 
 This project is a pure python package,
-allowing users to conveniently represent and calculate common integer sequences such as:
-Factorials, Prime numbers, Catalan numbers, Collatz numbers, Pronic numbers,
-Lazy Caterer and Cake Numbers,
-Hofstadter numbers, Horadam numbers and Polygonal numbers.
+allowing users to conveniently represent and generate common integer sequences, including:
 
-## Built for
+* Factorials
+* Prime numbers
+* Catalan numbers
+* Horadam numbers
+* Padovan numbers
+* Hofstadter numbers
+* Collatz numbers
+* Pronic numbers
+* Lazy Caterer and Cake Numbers
+* Geometric numbers(polygonal, polyhedral)
+
+---
+
+## Target Platform
 
 Python 3.6, 64-bit
 
@@ -66,8 +76,13 @@ Similar or related projects for various platforms can also be found here
 
 ## Additional Online References and Resources
 
-* [integerSequences-py Reference]()
+* The Official [integerSequences-py Reference]()
 * The [Online Encyclopaedia of Integer Sequences](https://oeis.org)
 
+---
+
+## Acknowledgements
+
+* [Neil Sloane](http://neilsloane.com/), founder of the Online Encyclopaedia of Integer Sequences
 
 ---
