@@ -1,6 +1,22 @@
 # Python Integer Sequences
+# Copyright (C) June 2018-present, Tyler R. Drury. All Rights Reserved.
 
 Developed and maintained by Tyler R. Drury,
+
+
+----
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/vigilance91/integerSequences-py/graphs/commit-activity)
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+[![PyPI version fury.io](https://badge.fury.io/py/ansicolortags.svg)](https://pypi.python.org/project/integerSequence/)
+[![PyPI download total](https://img.shields.io/pypi/dt/ansicolortags.svg)](https://pypi.org/project/integerSequence/)
+
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/vigilance91/integerSequences-py.svg)](http://isitmaintained.com/project/vigilance91/integerSequences-py "Average time to resolve an issue")
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/vigilance91/integerSequences-py.svg)](http://isitmaintained.com/project/vigilance91/integerSequences-py "Percentage of issues still open")
+
+----
 
 This project is a pure python package,
 allowing users to conveniently represent and generate common integer sequences, including:
@@ -57,7 +73,10 @@ if you wish to contribute.
 
 * Tyler R. Drury
 
+
 ## Additional Contributors
+
+
 
 ---
 
